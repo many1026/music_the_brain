@@ -15,7 +15,7 @@ The goal is to simulate a user-song interaction dataset, build an ETL pipeline u
 ---
 
 ## Project Structure
-
+```
 music-recommendation-pipeline/
 │
 ├── data/
@@ -39,3 +39,4 @@ music-recommendation-pipeline/
 ├── requirements.txt
 ├── config/
 │ └── aws_config.env # AWS credentials & Redshift parameters
+```
